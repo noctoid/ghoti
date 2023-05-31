@@ -1,0 +1,10 @@
+clickhouse-cityhash==1.0.2.4
+clickhouse-driver==0.2.6
+lz4==4.3.2
+pydantic==1.10.7
+pytz==2023.3
+pytz-deprecation-shim==0.1.0.post0
+typing_extensions==4.5.0
+tzdata==2023.3
+tzlocal==4.3
+zstd==1.5.5.1
